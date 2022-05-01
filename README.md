@@ -2,7 +2,7 @@
 
 # Gabriel Brune dos Santos
 
-### Técnico Em Desenvolvimento De Sistemas
+### Software Engineer
 Sou apaixonado por resolver problemas utilizando a programação, por isso busco melhorar minhas habilidades, trazendo métodos ágeis e eficazes para resolver a problemática do cliente da melhor forma possível.
 
 
