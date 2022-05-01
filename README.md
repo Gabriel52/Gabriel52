@@ -16,4 +16,4 @@ Sou apaixonado por resolver problemas utilizando a programação, por isso busco
  
  :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React/React Native
 
- 💬 &nbsp; Portfólio: https://portfolio-gabrielbrune.herokuapp.com/
+ 💬 &nbsp; Portfólio: https://gabriel-brune.netlify.app/
