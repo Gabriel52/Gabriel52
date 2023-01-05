@@ -12,7 +12,7 @@ I am passionate about solving problems using programming, so I seek to improve m
 
  
 
- :computer: &nbsp; mY Stack: Node JS, React JS, React Native, MySQL/Postgres/MongoDB 
+ :computer: &nbsp; My stack: Node JS, React JS, React Native, MySQL/Postgres/MongoDB 
  
  :purple_heart: &nbsp; Looking to collaborate with Front-end projects using React/React Native
 
