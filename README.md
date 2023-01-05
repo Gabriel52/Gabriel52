@@ -3,7 +3,7 @@
 # Gabriel Brune dos Santos
 
 ### Software Engineer
-Sou apaixonado por resolver problemas utilizando a programação, por isso busco melhorar minhas habilidades, trazendo métodos ágeis e eficazes para resolver a problemática do cliente da melhor forma possível.
+I am passionate about solving problems using programming, so I seek to improve my skills, bringing agile and effective methods to solve the client's problem in the best possible way.
 
 
 📫 Como me encontrar</br>
