@@ -6,14 +6,14 @@
 I am passionate about solving problems using programming, so I seek to improve my skills, bringing agile and effective methods to solve the client's problem in the best possible way.
 
 
-📫 Como me encontrar</br>
+📫 How to find me</br>
 [![Gmail Badge](https://img.shields.io/badge/-gabrielbrune52@gmail.com-eb415b?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielbrune52@gmail.com)](mailto:gabrielbrune52@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Gabriel%20Brune%20dos%20Santos-4a72e0?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-brune-dos-santos-032b9717a/)](https://www.linkedin.com/in/gabriel-brune-dos-santos-032b9717a/) 
 
  
 
- :computer: &nbsp; Minha Stack: Node JS, React JS, React Native, MySQL/Postgres/MongoDB 
+ :computer: &nbsp; mY Stack: Node JS, React JS, React Native, MySQL/Postgres/MongoDB 
  
- :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React/React Native
+ :purple_heart: &nbsp; Looking to collaborate with Front-end projects using React/React Native
 
  💬 &nbsp; Portfólio: https://gabriel-brune.netlify.app/
