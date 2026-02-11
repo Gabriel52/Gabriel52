@@ -20,7 +20,7 @@
 
 I'm passionate about solving problems with programming. I focus on improving my skills and applying agile, effective methods so that the solutions I build truly solve the client's needs.
 
-- **Role:** Software Engineer @ [Arcotech](https://arcotech.com.br/)  
+- **Role:** Software Engineer @ [Arcotech](https://www.arcoeducacao.com.br/)  
 - **Focus:** Front-end & full-stack development  
 - **Mindset:** Clean code, user experience, and continuous learning  
 
